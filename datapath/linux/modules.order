@@ -1,0 +1,6 @@
+kernel//home/gzq/openvswitch-2.8.0/datapath/linux/openvswitch.ko
+kernel//home/gzq/openvswitch-2.8.0/datapath/linux/vport-geneve.ko
+kernel//home/gzq/openvswitch-2.8.0/datapath/linux/vport-gre.ko
+kernel//home/gzq/openvswitch-2.8.0/datapath/linux/vport-lisp.ko
+kernel//home/gzq/openvswitch-2.8.0/datapath/linux/vport-stt.ko
+kernel//home/gzq/openvswitch-2.8.0/datapath/linux/vport-vxlan.ko
